@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Johan Niño! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=435&lines=Fullstack+Web+Developer;Passionate+about+Technology;Ready+to+build+impactful+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=435&lines=Developer;Passionate+about+Technology;Ready+to+build+impactful+projects" />
 </p>
 
 ---
