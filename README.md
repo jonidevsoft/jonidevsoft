@@ -2,18 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Johan+Ni%C3%B1o+%F0%9F%91%8B;Fullstack+Developer+%2B+AI+Builder;Python+%7C+PHP+%7C+React+%7C+FastAPI;Building+real+products+with+Anthropic+API" />
 </h1>
 
-<p align="center">
-  <a href="https://www.jonidev.com.co" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-jonidev.com.co-FF5F5F?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="mailto:contacto@jonidev.com.co">
-    <img src="https://img.shields.io/badge/Email-contacto%40jonidev.com.co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/johan-lnc-1313a6251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Johan%20Ni%C3%B1o-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
@@ -29,16 +17,11 @@ I design and ship complete products — from backend logic to polished UIs — w
 
 ---
 
-### 🚀 Featured Projects
+### 📫 How to Reach Me
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🧾 facturapro](https://github.com/jonidevsoft/facturapro) | Billing system with full CRUD, invoices and client management | FastAPI · React · PostgreSQL |
-| [🤖 chatbot-ia](https://github.com/jonidevsoft/chatbot-ia) | AI chatbot powered by Groq + Llama 3.3 70B with React frontend | FastAPI · React · Groq API |
-| [🎬 explorador-peliculas](https://github.com/jonidevsoft/explorador-peliculas) | Movie explorer using OMDb API with search and detail views | JavaScript · HTML/CSS |
-| [🔍 github-finder](https://github.com/jonidevsoft/github-finder) | Search GitHub profiles, repos and stats in a clean UI | CSS · JavaScript |
-| [✅ appTareas](https://github.com/jonidevsoft/appTareas) | Task management app with full task lifecycle | CSS · JavaScript |
-| [💰 panel-gastos](https://github.com/jonidevsoft/panel-gastos) | Personal income and expense tracker | JavaScript · HTML/CSS |
+- 📧 Email: [contacto@jonidev.com.co](mailto:contacto@jonidev.com.co)  
+- 🌐 Portfolio: [www.jonidev.com.co](https://www.jonidev.com.co)  
+- 💼 LinkedIn: [linkedin.com/in/johan-lnc-1313a6251](https://www.linkedin.com/in/johan-lnc-1313a6251)
 
 ---
 
