@@ -1,18 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Johan+Ni%C3%B1o+%F0%9F%91%8B;Fullstack+Developer+%2B+AI+Builder;Python+%7C+PHP+%7C+React+%7C+FastAPI;Building+real+products+with+Anthropic+API" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5F5F&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Johan+Ni%C3%B1o+%F0%9F%91%8B;Fullstack+Developer+%2B+AI+Builder;Python+%7C+PHP+%7C+React+%7C+FastAPI;Building+" />
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
 
-Fullstack developer specialized in building **AI-powered web applications** using the **Anthropic API**.
-I design and ship complete products — from backend logic to polished UIs — with a focus on real-world utility.
+Fullstack developer specialized in building **AI-powered web applications** using  **APIs**.
+I development and ship complete products — from backend logic to polished UIs — with a focus on real-world utility.
 
 - 🤖 Building agentic AI systems with real tool execution and Claude API integration
 - 🛠 Backend: **Python (FastAPI)** · **PHP** · **MySQL** · **PostgreSQL**
 - 🎨 Frontend: **React** · **Tailwind CSS** · **HTML/CSS/JS**
-- 🚀 Currently available for **remote full-time or freelance opportunities**
+- 🚀 Currently available for **remote or in-person full-time opportunities**
 - 🌎 Based in Colombia · Working globally
 
 ---
