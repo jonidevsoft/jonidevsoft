@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 Fullstack developer specialized in building **AI-powered web applications** using  **APIs**.
-I development and ship complete products — from backend logic to polished UIs — with a focus on real-world utility.
+I develop and ship complete products — from backend logic to polished UIs — with a focus on real-world utility.
 
 - 🤖 Building agentic AI systems with real tool execution and Claude API integration
 - 🛠 Backend: **Python (FastAPI)** · **PHP** · **MySQL** · **PostgreSQL**
