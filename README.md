@@ -21,7 +21,7 @@ I development and ship complete products — from backend logic to polished UIs 
 
 - 📧 Email: [contacto@jonidev.com.co](mailto:contacto@jonidev.com.co)  
 - 🌐 Portfolio: [www.jonidev.com.co](https://www.jonidev.com.co)  
-- 💼 LinkedIn: [linkedin.com/in/johan-lnc-1313a6251](https://www.linkedin.com/in/jonidev)
+- 💼 LinkedIn: [linkedin.com/in/jonidev](https://www.linkedin.com/in/jonidev)
 
 ---
 
