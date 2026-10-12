@@ -6,8 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Fullstack developer specialized in building **AI-powered web applications** using  **APIs**.
-I develop and ship complete products — from backend logic to polished UIs — with a focus on real-world utility.
+Full-stack Developer and Software Analysis and Development Technologist (SENA), with experience in end-to-end web applications: Python (FastAPI, Django) and PHP (Laravel) for the backend, and React, JavaScript, HTML, and CSS (Tailwind) for the frontend, working with PostgreSQL and MySQL databases. Focused on the design and consumption of REST APIs and process automation. Holds a Google Cybersecurity certification. A self-taught, proactive professional committed to creating maintainable solutions applicable to real-world environments.
 
 - 🤖 Building agentic AI systems with real tool execution and Claude API integration
 - 🛠 Backend: **Python (FastAPI)** · **PHP** · **MySQL** · **PostgreSQL**
